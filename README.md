@@ -2,7 +2,7 @@
 
 ## Coding Interview Patterns
 
-### - [x] 1. Pattern: Two Pointers - Done 
+###  [x] 1. Pattern: Two Pointers - Done 
 
 1. Introduction
 2. Pair with Target Sum (easy) [LeetCode](https://leetcode.com/problems/two-sum/)
