@@ -2,7 +2,7 @@
 
 ## Coding Interview Patterns
 
-### 1. Pattern: Two Pointers
+### 1. Pattern: Two Pointers - Done 
 
 1. Introduction
 2. Pair with Target Sum (easy) [LeetCode](https://leetcode.com/problems/two-sum/)
@@ -19,7 +19,7 @@
 13. Problem Challenge 2: Comparing Strings containing Backspaces (medium) [Leetcode](https://leetcode.com/problems/backspace-string-compare/)
 14. Problem Challenge 3: Minimum Window Sort (medium) [Leetcode](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) [Ideserve](https://www.ideserve.co.in/learn/minimum-length-subarray-sorting-which-results-in-sorted-array)
 
-### 2. Pattern: Fast & Slow pointers
+### 2. Pattern: Fast & Slow pointers  - Done 
 
 1. Introduction [emre.me](https://emre.me/coding-patterns/fast-slow-pointers/)
 2. LinkedList Cycle (easy) [Leetcode](https://leetcode.com/problems/linked-list-cycle/)
@@ -30,7 +30,7 @@
 7. Problem Challenge 2: Rearrange a LinkedList (medium) [Leetcode](https://leetcode.com/problems/reorder-list/)
 8. Problem Challenge 3: Cycle in a Circular Array (hard) [Leetcode](https://leetcode.com/problems/circular-array-loop/)
 
-### 3. Pattern: Sliding Window
+### 3. Pattern: Sliding Window  - Done till 10 
 
 1. Introduction
 2. Maximum Sum Subarray of Size K (easy)
@@ -90,7 +90,7 @@
 ### 8. Pattern: Monotonic Stack
 
 1. Introduction to Monotonic Stack
-2. Next Greater Element (easy) [Leetcode - I](https://leetcode.com/problems/next-greater-element-i/) [Leetcode -II](https://leetcode.com/problems/next-greater-element-ii/) [Leetcode - III (Hard)](https://leetcode.com/problems/next-greater-element-iv/)
+2. Next Greater Element (easy) [Leetcode - I](https://leetcode.com/problems/next-greater-element-i/) [Leetcode -II](https://leetcode.com/problems/next-greater-element-ii/) [Leetcode - III (Hard)](https://leetcode.com/problems/next-greater-element-iv/)   
 3. Daily Temperatures (easy) [Leetcode](https://leetcode.com/problems/daily-temperatures/)
 4. Remove Nodes From Linked List (easy) [Leetcode](https://leetcode.com/problems/remove-nodes-from-linked-list/)
 5. Remove All Adjacent Duplicates In String (easy) [Leetcode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)  
@@ -100,9 +100,9 @@
 ### 9. Pattern: Hash Maps
 
 1. Introduction (Hashing, Hash Tables, Issues)
-2. First Non-repeating Character (easy) [Leetcode](https://leetcode.com/problems/first-unique-character-in-a-string/)  
+2. First Non-repeating Character (easy) [Leetcode](https://leetcode.com/problems/first-unique-character-in-a-string/)   - Done 
 3. Largest Unique Number (easy) [Leetcode+](https://leetcode.com/problems/largest-unique-number/)  
-4. Maximum Number of Balloons (easy) [Leetcode](https://leetcode.com/problems/maximum-number-of-balloons/)  
+4. Maximum Number of Balloons (easy) [Leetcode](https://leetcode.com/problems/maximum-number-of-balloons/)  - Done 
 5. Longest Palindrome(easy) [Leetcode](https://leetcode.com/problems/longest-palindrome/)  
 6. Ransom Note (easy) [Leetcode](https://leetcode.com/problems/ransom-note/)  
 
