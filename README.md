@@ -2,7 +2,7 @@
 
 ## Coding Interview Patterns
 
-### 1. Pattern: Two Pointers - Done 
+### - [x] 1. Pattern: Two Pointers - Done 
 
 1. Introduction
 2. Pair with Target Sum (easy) [LeetCode](https://leetcode.com/problems/two-sum/)
@@ -19,7 +19,7 @@
 13. Problem Challenge 2: Comparing Strings containing Backspaces (medium) [Leetcode](https://leetcode.com/problems/backspace-string-compare/)
 14. Problem Challenge 3: Minimum Window Sort (medium) [Leetcode](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) [Ideserve](https://www.ideserve.co.in/learn/minimum-length-subarray-sorting-which-results-in-sorted-array)
 
-### 2. Pattern: Fast & Slow pointers  - Done 
+### - [x] 2. Pattern: Fast & Slow pointers  - Done 
 
 1. Introduction [emre.me](https://emre.me/coding-patterns/fast-slow-pointers/)
 2. LinkedList Cycle (easy) [Leetcode](https://leetcode.com/problems/linked-list-cycle/)
@@ -97,7 +97,7 @@
 6. Remove All Adjacent Duplicates in String II (medium) [Leetcode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 7. Remove K Digits (hard) [Leetcode](https://leetcode.com/problems/remove-k-digits/)  
 
-### 9. Pattern: Hash Maps - Done 
+### - [x] 9. Pattern: Hash Maps - Done 
 
 1. Introduction (Hashing, Hash Tables, Issues)
 2. First Non-repeating Character (easy) [Leetcode](https://leetcode.com/problems/first-unique-character-in-a-string/)   - Done 
@@ -196,7 +196,7 @@
 16. *Median of Two Sorted Arrays (hard) [Leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
 
-### 17. Pattern: Bitwise XOR  - Done 
+### - [x] 17. Pattern: Bitwise XOR  - Done 
 
 1. Introduction
 2. Single Number (easy)
