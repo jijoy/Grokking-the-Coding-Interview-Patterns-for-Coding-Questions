@@ -97,7 +97,7 @@
 6. Remove All Adjacent Duplicates in String II (medium) [Leetcode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 7. Remove K Digits (hard) [Leetcode](https://leetcode.com/problems/remove-k-digits/)  
 
-### 9. Pattern: Hash Maps
+### 9. Pattern: Hash Maps - Done 
 
 1. Introduction (Hashing, Hash Tables, Issues)
 2. First Non-repeating Character (easy) [Leetcode](https://leetcode.com/problems/first-unique-character-in-a-string/)   - Done 
