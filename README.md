@@ -196,7 +196,7 @@
 16. *Median of Two Sorted Arrays (hard) [Leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
 
-### 17. Pattern: Bitwise XOR
+### 17. Pattern: Bitwise XOR  - Done 
 
 1. Introduction
 2. Single Number (easy)
