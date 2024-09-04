@@ -86,12 +86,12 @@
 6. Sorting a Stack 
 7. Simplify Path [Leetcode](https://leetcode.com/problems/simplify-path/)  
 
-### 8. Pattern: Monotonic Stack
+### 8. Pattern: Monotonic Stack :heavy_check_mark: 
 
 1. Introduction to Monotonic Stack
 2. Next Greater Element (easy) [Leetcode - I](https://leetcode.com/problems/next-greater-element-i/) [Leetcode -II](https://leetcode.com/problems/next-greater-element-ii/) [Leetcode - III (Hard)](https://leetcode.com/problems/next-greater-element-iv/)   
 3. Daily Temperatures (easy) [Leetcode](https://leetcode.com/problems/daily-temperatures/)
-4. Remove Nodes From Linked List (easy) [Leetcode](https://leetcode.com/problems/remove-nodes-from-linked-list/)  :heavy_check_mark: 
+4. Remove Nodes From Linked List (easy) [Leetcode](https://leetcode.com/problems/remove-nodes-from-linked-list/)  
 5. Remove All Adjacent Duplicates In String (easy) [Leetcode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)  
 6. Remove All Adjacent Duplicates in String II (medium) [Leetcode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 7. Remove K Digits (hard) [Leetcode](https://leetcode.com/problems/remove-k-digits/)  
