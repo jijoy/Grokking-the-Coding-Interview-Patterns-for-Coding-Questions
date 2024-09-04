@@ -76,7 +76,7 @@
 5. Problem Challenge 1: Reverse alternating K-element Sub-list (medium) [Geeksforgeeks](https://www.geeksforgeeks.org/reverse-alternate-k-nodes-in-a-singly-linked-list/)
 6. Problem Challenge 2: Rotate a LinkedList (medium) [Leetcode](https://leetcode.com/problems/rotate-list/)
 
-### 7. Pattern: Stack
+### 7. Pattern: Stack :heavy_check_mark: 
 
 1. Introduction to Stack (Operations, Implementation, Applications)
 2. Balanced Parentheses
@@ -86,7 +86,7 @@
 6. Sorting a Stack 
 7. Simplify Path [Leetcode](https://leetcode.com/problems/simplify-path/)  
 
-### 8. Pattern: Monotonic Stack :heavy_check_mark: 
+### 8. Pattern: Monotonic Stack  :heavy_check_mark: 
 
 1. Introduction to Monotonic Stack
 2. Next Greater Element (easy) [Leetcode - I](https://leetcode.com/problems/next-greater-element-i/) [Leetcode -II](https://leetcode.com/problems/next-greater-element-ii/) [Leetcode - III (Hard)](https://leetcode.com/problems/next-greater-element-iv/)   
