@@ -44,7 +44,7 @@
 11. Problem Challenge 3: Smallest Window containing Substring (hard) [Leetcode](https://leetcode.com/problems/minimum-window-substring/)
 12. Problem Challenge 4: Words Concatenation (hard) [Leetcode](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 
-### 4. Pattern: Merge Intervals
+### 4. Pattern: Merge Intervals :heavy_check_mark: 
 
 1. Introduction [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/3YVYvogqXpA)
 2. Merge Intervals (medium) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/3jyVPKRA8yx)
