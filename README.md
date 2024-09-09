@@ -55,7 +55,7 @@
 7. Problem Challenge 2: Maximum CPU Load (hard) [Geeksforgeeks](https://www.geeksforgeeks.org/maximum-cpu-load-from-the-given-list-of-jobs/)
 8. Problem Challenge 3: Employee Free Time (hard) [CoderTrain](https://www.codertrain.co/employee-free-time)
 
-### 5. Pattern: Cyclic Sort
+### 5. Pattern: Cyclic Sort  :heavy_check_mark: 
 
 1. Introduction [emre.me](https://emre.me/coding-patterns/cyclic-sort/)
 2. Cyclic Sort (easy) [Geeksforgeeks](https://www.geeksforgeeks.org/sort-an-array-which-contain-1-to-n-values-in-on-using-cycle-sort/)
