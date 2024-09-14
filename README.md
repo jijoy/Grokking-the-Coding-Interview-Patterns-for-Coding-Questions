@@ -111,7 +111,7 @@
 2. Binary Tree Level Order Traversal (easy) [Leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 3. Reverse Level Order Traversal (easy) [Leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 4. Zigzag Traversal (medium) [Leetcode](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
-5. Level Averages in a Binary Tree (easy) [Leetcode](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
+5. Level Averages in a Binary Tree (easy) [Leetcode](https://leetcode.com/problems/average-of-levels-in-binary-tree/)   :heavy_check_mark: 
 6. Minimum Depth of a Binary Tree (easy) [Leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 7. Maximum Depth of a Binary Tree (easy) [Leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 8. Level Order Successor (easy) [Geeksforgeeks](https://www.geeksforgeeks.org/level-order-successor-of-a-node-in-binary-tree/)
