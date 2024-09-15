@@ -105,7 +105,7 @@
 5. Longest Palindrome(easy) [Leetcode](https://leetcode.com/problems/longest-palindrome/)  
 6. Ransom Note (easy) [Leetcode](https://leetcode.com/problems/ransom-note/)  
 
-### 10. Pattern: Tree Breadth First Search
+### 10. Pattern: Tree Breadth First Search  :heavy_check_mark:  
 
 1. Introduction
 2. Binary Tree Level Order Traversal (easy) [Leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/)
