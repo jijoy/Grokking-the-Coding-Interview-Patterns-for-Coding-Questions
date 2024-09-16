@@ -115,7 +115,7 @@
 6. Minimum Depth of a Binary Tree (easy) [Leetcode](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 7. Maximum Depth of a Binary Tree (easy) [Leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 8. Level Order Successor (easy) [Geeksforgeeks](https://www.geeksforgeeks.org/level-order-successor-of-a-node-in-binary-tree/)
-9. Connect Level Order Siblings (medium) [Leetcode](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  :heavy_check_mark: 
+9. Connect Level Order Siblings (medium) [Leetcode](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  
 10. Problem Challenge 1: Connect All Level Order Siblings (medium) [Educative](https://www.educative.io/m/connect-all-siblings)
 11. Problem Challenge 2: Right View of a Binary Tree (easy) [Leetcode](https://leetcode.com/problems/binary-tree-right-side-view/)
 
