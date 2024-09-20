@@ -120,7 +120,8 @@
 11. Problem Challenge 2: Right View of a Binary Tree (easy) [Leetcode](https://leetcode.com/problems/binary-tree-right-side-view/)
 
 
-### 11. Pattern: Tree Depth First Search
+### 11. Pattern: Tree Depth First Search :heavy_check_mark: 
+
 
 1. Introduction
 2. Binary Tree Path Sum (easy) [Leetcode](https://leetcode.com/problems/path-sum/)
@@ -132,7 +133,7 @@
 8. Problem Challenge 2: Path with Maximum Sum (hard) [Leetcode](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
 
-### 12. Pattern: Graphs
+### 12. Pattern: Graphs :heavy_check_mark: 
 
 1. Introduction to Graph (Representations, Abstract Data Type (ADT))
 2. Graph Traversal: Depth First Search(DFS)
@@ -145,7 +146,7 @@
 ### 13. Pattern: Island (Matrix traversal)
 
 1. Introduction to Island Pattern
-2. Number of Islands (easy) [Leetcode](https://leetcode.com/problems/number-of-islands/)  
+2. Number of Islands (easy) [Leetcode](https://leetcode.com/problems/number-of-islands/)   :heavy_check_mark: 
 3. Biggest Island (easy)
 4. Flood Fill (easy) [Leetcode](https://leetcode.com/problems/flood-fill/)  
 5. Number of Closed Islands (easy) [Leetcode](https://leetcode.com/problems/number-of-closed-islands/)  
