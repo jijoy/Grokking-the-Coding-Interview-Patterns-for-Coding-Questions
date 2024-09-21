@@ -155,7 +155,7 @@
 8. Problem Challenge 3 (medium)
 
 
-### 14. Pattern: Two Heaps
+### 14. Pattern: Two Heaps :heavy_check_mark: 
 
 1. Introduction
 2. Find the Median of a Number Stream (medium) [Leetcode](https://leetcode.com/problems/find-median-from-data-stream/)
