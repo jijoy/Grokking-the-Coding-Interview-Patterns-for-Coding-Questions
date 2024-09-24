@@ -165,7 +165,7 @@
 5. **Maximum Sum Combinations* (medium) [InterviewBit](https://www.interviewbit.com/problems/maximum-sum-combinations/)
 
 
-### 15. Pattern: Subsets
+### 15. Pattern: Subsets :heavy_check_mark: 
 
 1. Introduction [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/R87WmWYrELz)
 2. Subsets (easy) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/gx2OqlvEnWG)
