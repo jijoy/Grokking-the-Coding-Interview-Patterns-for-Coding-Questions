@@ -294,7 +294,7 @@
 
 1. Introduction to Union Find Pattern
 2. Redundant Connection (medium) [Leetcode - I](https://leetcode.com/problems/redundant-connection/) [Leetcode - II (Hard)](https://leetcode.com/problems/redundant-connection-ii/)  
-3. Number of Provinces (medium) [Leetcode](https://leetcode.com/problems/number-of-provinces/)
+3. Number of Provinces (medium) [Leetcode](https://leetcode.com/problems/number-of-provinces/)  :heavy_check_mark: 
 4. Is Graph Bipartite? (medium) [Leetcode](https://leetcode.com/problems/is-graph-bipartite/)
 5. Path With Minimum Effort (medium) [Leetcode](https://leetcode.com/problems/path-with-minimum-effort/)
 
