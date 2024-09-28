@@ -299,7 +299,7 @@
 5. Path With Minimum Effort (medium) [Leetcode](https://leetcode.com/problems/path-with-minimum-effort/)
 
 
-### 26. Ordered Set
+### 26. Ordered Set  :heavy_check_mark: 
 
 1. Introduction to Ordered Set Pattern
 2. Merge Similar Items (easy) [Leetcode](https://leetcode.com/problems/merge-similar-items/)  
