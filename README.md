@@ -258,10 +258,10 @@
 7. Problem Challenge 2: Target Sum (hard)
 
 
-### 22. Pattern: Backtracking
+### 22. Pattern: Backtracking :heavy_check_mark: 
 
 1. Introduction to Backtracking Pattern
-2. Combination Sum (medium) [Leetcode - I](https://leetcode.com/problems/combination-sum/) [Leetcode - II](https://leetcode.com/problems/combination-sum-ii/) [Leetcode - III](https://leetcode.com/problems/combination-sum-iii/) [Leetcode - IV](https://leetcode.com/problems/combination-sum-iv/)  :heavy_check_mark: 
+2. Combination Sum (medium) [Leetcode - I](https://leetcode.com/problems/combination-sum/) [Leetcode - II](https://leetcode.com/problems/combination-sum-ii/) [Leetcode - III](https://leetcode.com/problems/combination-sum-iii/) [Leetcode - IV](https://leetcode.com/problems/combination-sum-iv/)  
 3. Word Search (medium) [Leetcode - I](https://leetcode.com/problems/word-search/) [Leetcode - II (Hard)](https://leetcode.com/problems/word-search-ii/)
 4. Sudoku Solver (hard) [Leetcode](https://leetcode.com/problems/sudoku-solver/)
 5. Factor Combinations (medium) [Leetcode+](https://leetcode.com/problems/factor-combinations/)
