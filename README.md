@@ -205,7 +205,7 @@
 5. Problem Challenge 1: Flip and Invert an Image (hard)
 
 
-### 18. Pattern: Top 'K' Elements
+### 18. Pattern: Top 'K' Elements :heavy_check_mark:
 
 1. [Introduction](13.-pattern-top-k-elements/01.Introduction.md)
 2. Top 'K' Numbers (easy) [Solution](13.-pattern-top-k-elements/02.top-k-numbers.md)
