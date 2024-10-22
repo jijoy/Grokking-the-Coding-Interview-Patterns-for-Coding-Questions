@@ -268,7 +268,7 @@
 6. Split a String Into the Max Number of Unique Substrings (medium) [Leetcode](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)
 
 
-### 23. Pattern: Trie
+### 23. Pattern: Trie :heavy_check_mark: 
 
 1. Introduction to Trie
 2. Implement Trie (Prefix Tree) (medium) [Leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/)  
