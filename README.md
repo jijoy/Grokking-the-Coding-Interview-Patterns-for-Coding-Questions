@@ -236,7 +236,7 @@
 6. Problem Challenge 1: K Pairs with Largest Sums (hard)
 
 
-### 20. Pattern: Greedy Algorithms
+### 20. Pattern: Greedy Algorithms :heavy_check_mark:
 
 1. Introduction to Greedy Algorithm
 2. Valid Palindrome II (easy) [Leetcode](https://leetcode.com/problems/valid-palindrome-ii/)  
