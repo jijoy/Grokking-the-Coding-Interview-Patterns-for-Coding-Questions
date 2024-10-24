@@ -247,7 +247,7 @@
 7. Removing Minimum and Maximum From Array (medium) [Leetcode](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/)  
 
 
-### 21. Pattern : 0/1 Knapsack (Dynamic Programming)
+### 21. Pattern : 0/1 Knapsack (Dynamic Programming) :heavy_check_mark: 
 
 1. Introduction
 2. 0/1 Knapsack (medium) [Geeksforgeeks](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
